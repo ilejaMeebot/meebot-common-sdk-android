@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.ileja.meebot.sdk</groupId>
       <artifactId>carrobotCommons</artifactId>
-      <version>1.0</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
